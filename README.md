@@ -30,7 +30,7 @@ I'm a cat lover and a gamer at heart. When I'm not hunting bugs, I'm chasing mic
 > "Driven to deliver products that change the world, one bug at a time" 🌍
 
 ## 🎨 Avatar
-![Programmer Cat](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG51anRxcnZpMXlvZ3Y4cHBkaDlpazI0OGIzMXBncGNtNjMyamgydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif)
+![Programmer Cat](https://avatars.githubusercontent.com/u/93626114?v=4)
 
 ## 📊 GitHub Stats
 🚧 **Stats Under Construction** 🚧
